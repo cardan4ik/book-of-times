@@ -17,7 +17,7 @@ class InvalidCommand(Exception):
 
 def file_open():
     try:
-        with open('sheetEn - копия.txt', 'r') as file:  # открываем файл
+        with open('sheetEn.txt', 'r') as file:  # открываем файл
             for num, line in enumerate(file, 1):  # берем строку, определяем ее номер(с 1) и значение в ней
                 if num >= 1 and len(line) > 10:  # Если номер больше или = 0, то
                         create_dictionary(line, dictionary)  # запускаем словарь
