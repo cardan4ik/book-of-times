@@ -1,0 +1,5 @@
+run - бежать
+go, wen - идти
+stay - стоять
+see, sought - смотреть
+surch - искать

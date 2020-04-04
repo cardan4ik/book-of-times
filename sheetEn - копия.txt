@@ -1,0 +1,13 @@
+run - бежать
+go, wen - идти
+stay - стоять
+see, sought - смотреть
+surch - искать
+cloce - закрывать
+try - пробовать
+play - играть
+teach - учить
+wish - врить
+buy, bought - покупать
+draw, drew - рисовать
+drink, drank - пить
